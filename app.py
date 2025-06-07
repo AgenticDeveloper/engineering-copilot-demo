@@ -28,4 +28,4 @@ _Source: XYZ_OQ_Protocol_2023.pdf, DeviationReport_XYZ_March2024.docx_
     st.write("- `DeviationReport_XYZ_March2024.docx`")
 
 # Footer
-st.sidebar.markdown("Developed for GSK demo | Sigmoid |
+st.sidebar.markdown("Developed for GSK demo | Sigmoid | Streamlit Cloud-ready")
